@@ -1,7 +1,7 @@
 import os
 import signal
 
-resultFromOtherCode = 'buy'
+resultFromOtherCode = 'sell'
 # Get process id
 pid = os.getpid()
 
